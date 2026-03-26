@@ -1,4 +1,5 @@
 1)Proiect_sistemeInteligente
+
 Am ales această temă bazată pe setul de date cu donarea de sange deoarece reprezintă o provocare clasică de analiză predictivă. Într-un sistem de sănătate modern, gestionarea sângelui este critică: acesta nu poate fi sintetizat artificial și are o durată de conservare limitată. Prin urmare, un sistem inteligent care poate anticipa fluxul de donatori nu este doar o aplicație software, ci un instrument de suport vital.
 
 
